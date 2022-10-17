@@ -1,0 +1,152 @@
+*{
+    font-family: Tw Cen MT;
+}
+#div1
+{
+    float: left;
+    margin-top: -165px;
+    margin-left: 80px;
+    list-style: none;
+    font-size: 45px;
+    font-weight: bolder;
+}
+ul
+{
+    display: flex;
+    list-style: none;
+    margin-top: -8.5%;
+    margin-right: 11%;
+    color: #fff;
+    font-size: 24px;
+    float: right;
+}
+li
+{
+    padding: 15px;
+}
+#rn:hover
+{
+    text-decoration: underline;
+}
+#sign_up:hover
+{
+    color: aliceblue;
+}
+#request_demo
+{
+    background-color: rgb(194, 220, 172);
+    padding: 15px;
+    padding-right: 24px;
+    padding-left: 24px;
+    border-radius: 10px;
+}
+#request_demo:hover
+{
+    box-shadow: 0px 2px 35px 0px rgb(96, 96, 96);
+}
+body
+{
+    background-image: url('https://images.unsplash.com/photo-1659922112975-6698cdcb9f9c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1925&q=80');
+}
+.centered
+{
+    width: 475px;
+    text-align: center;
+    margin-top: 9.95%;
+    margin-left: 36.8%;
+    padding: 10px;
+    border-radius: 15.5px;
+    box-shadow: 0px 2px 55px 0px  rgb(86, 86, 86);
+
+}
+#info
+{
+    margin-left: 15%;
+    width: 60%;
+    height: 50px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 19px;
+}
+#form1
+{
+    background-color: rgb(234, 246, 224);
+    height:30px; 
+    width: 350px;
+    padding: 3px;
+    border: none;
+    border-radius: 6px;
+}
+#htsi
+{
+    padding: 20px;
+    margin-left: -190px;
+    margin-bottom: 15px;
+}
+#htsi:hover
+{
+    text-decoration: underline;
+}
+a
+{
+    text-decoration: none;
+    color: black;
+}
+#si
+{
+    font-size: 16px;
+    padding: 3px;
+    border-radius: 8px;
+    border: none;
+    width: 360px;
+    height: 45px;
+    background-color:  rgb(189, 233, 153);
+}
+#si:hover
+{
+    /*background-color: #63bb86;*/
+    box-shadow: 0px 2px 15px 0px  rgb(185, 185, 185);
+}
+#si:active
+{
+    background-color: rgb(204, 241, 174);
+}
+#osiw
+{
+    font-size: 16px;
+    padding-top: 45px;
+}
+#social
+{
+    width: 500px;
+    padding: 10px;
+    margin-left: 10.8%;
+    width: 360px;
+    height: 100px;
+}
+.account
+{
+    font-size: 18px;
+    font-weight: bold;
+    width: 31%;
+    height: 40px;
+    float: left;
+    border: 2px solid;
+    border-radius: 6px;
+    border-color: rgb(197, 197, 197);
+    background-color: #fff;
+    margin:3px;
+}
+.account:hover
+{
+    text-decoration:underline;
+}
+#copyright
+{
+    text-align: center;
+    font-weight: bold;
+}
+#cp:hover
+{
+    text-decoration: underline;
+}
